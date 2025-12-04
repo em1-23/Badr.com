@@ -166,6 +166,7 @@ html,body{
   font-weight:600;
   border-top-left-radius:8px;
   border-top-right-radius:8px
+  box-shadow:var(--card-shadow)
 }
 /* Milkshakes */
 .milkshakes{
